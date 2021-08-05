@@ -27,9 +27,8 @@ sections:
             style: link
       - title: Blog
         content: >
-          ![](/images/5.jpg)Vestibulum a nunc ut eros condimentum posuere.
-          Nullam dapibus quis nunc non interdum. Pellentesque tortor ligula,
-          gravida ac commodo eu.
+          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
+          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
         actions:
           - label: View Posts
             url: /blog
